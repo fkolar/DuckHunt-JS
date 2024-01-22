@@ -1,3 +1,6 @@
+Note: Source For the migration
+
+
 # DUCK HUNT JS v3.0
 
 [Play the game](http://duckhuntjs.com)
